@@ -3,4 +3,4 @@ app:
   environment: "development"
 
 firebase:
-  service_account_key_path: "path/to/firebase/serviceAccountKey.json" # Path to service account key file
+  service_account_key_path: "credentials.json" # Path to service account key file
